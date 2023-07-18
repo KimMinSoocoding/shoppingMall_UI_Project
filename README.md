@@ -1,4 +1,4 @@
-# shoppingMall_UI_Project
+<img width="1306" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/6c2a0472-34ba-4f91-84ed-17fcb95ee926"># shoppingMall_UI_Project
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinSoo%20Github!&fontSize=90" />	
 </div>
@@ -89,7 +89,52 @@
 
 ### :heavy_check_mark: UI기능 
 - :page_facing_up: hover , after, before를 적극활용하여 버튼 하나하나에 기능을 부여
-- :blue_heart: JS를 활용해 스크롤시 상단바 변경후 고정
-- :speech_balloon: 여러가지 패션아이템을 보여줘야하는 특성을 고려해 슬라이더 적극활용 
+- :speech_balloon: JS를 활용해 스크롤시 상단바 변경후 고정
+- :blue_heart: 여러가지 패션아이템을 보여줘야하는 특성을 고려해 슬라이더 적극활용
 
 <br>
+
+## :laughing: UI 디자인 소개
+### :pushpin: 상단부분 
+- 상단 메뉴바 커서시 디자인 및 크기 변경
+- 각 메뉴버튼마다 after, before 기능 적용
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/25121ae6-4725-4dea-b2c3-51049c67afe4">
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/be1bb585-647d-4466-85dd-151d9d46ad81">
+<img width="200" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/d40e3fa7-f27e-416c-a49a-4b0ebd37a070">
+
+<br>
+
+### :pushpin: 스크롤 다운 기능
+- 일정 높이 스크롤 다운시 메뉴바 디자인 및 크기 변경후 상단고정
+- 정상 높이 스크롤시 원래 메뉴바 디자인으로 원상복귀
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/d85a3b9a-a6eb-4b66-bf15-caf3cddaefa6">
+
+<br>
+
+### :pushpin: 슬라이더
+- 일정 시간마다 1개 아이템씩 슬라이더 자동적용
+- 화살표 버튼 클릭으로 슬라이더 가능
+- 해당 아이템 커서시 정보 노출 (그전엔 공백)
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/7989d492-5bad-4949-b2d3-8d71feaaff3c">
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/ad3a29c7-d539-497b-8d52-68a4f6a0fcad">
+
+<br>
+
+### :pushpin: 중간 페이지 영역
+- '가까운 매장을 방문해보세요 ' 커서시 after, before 적용
+- 트랜잭션 적용
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/4c632e64-7709-4d61-a00a-0687bde99f6d">
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/e88123d5-a218-4a1f-baa3-14148e787a26">
+
+<br>
+
+### :pushpin: 중간 페이지 영역
+- 메뉴버튼 커서시 after, before 적용
+- 트랜잭션 적용
+- 슬라이더 화살표 버튼 클릭시 슬라이드 적용 (누르기 전까지 고정)
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/a5426d74-6b6a-4c25-803f-fdb52f77def4">
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/d0fa6ece-9894-402d-81ef-4ee8bc88ff73">
+
+### :pushpin: footer 영역
+<img width="1316" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/eb3706f3-900b-4963-b37e-4024ff0074bb">
+
