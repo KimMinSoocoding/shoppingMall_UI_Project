@@ -1,4 +1,4 @@
-<img width="1306" alt="image" src="https://github.com/KimMinSoocoding/shoppingMall_UI_Project/assets/113892151/6c2a0472-34ba-4f91-84ed-17fcb95ee926"># shoppingMall_UI_Project
+# UI_디자인_Project
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinSoo%20Github!&fontSize=90" />	
 </div>
